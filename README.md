@@ -9,8 +9,6 @@
 
 - 📫 Contactame **francosardi2004@gmail.com**
 
-- 📄 Mi CV [http://127.0.0.1:5505/Curriculum-Sardi.pdf](http://127.0.0.1:5505/Curriculum-Sardi.pdf)
-
 - ⚡ Fun fact **I never give UP**
 
 <h3 align="left">Connect with me:</h3>
